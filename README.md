@@ -1,10 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Store Shop
-👯 I’m looking to collaborate on Experienced and diligent team
-🤝 I’m looking for help with any sorting algorithms in python language
-🌱 I’m currently learning React.js and Next.js
-💬 Ask me about Python, JavaScript, Software Dev...
-⚡ Fun fact: Avocados are a fruit, not a vegetable. They're technically considered a single-seeded berry, believe it or not.
+🔭 I’m currently working on Store Shop<br>👯 I’m looking to collaborate on Experienced and diligent team<br>🤝 I’m looking for help with any sorting algorithms in python language<br>🌱 I’m currently learning React.js and Next.js<br>💬 Ask me about Python, JavaScript, Software Dev...<br>⚡ Fun fact: Avocados are a fruit, not a vegetable. They're technically considered a single-seeded berry, believe it or not. 
 
 
 ## 🌐 Socials:
