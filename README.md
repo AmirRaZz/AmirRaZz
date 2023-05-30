@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a dedicated and experienced Full Stack Developer with a strong passion for creating dynamic and user-friendly applications. I have honed my skills over the course of 2 years of relevant experience and have comprehensive expertise spanning both front-end and back-end technologies.<br>Collaborating with cross-functional teams to deliver high-quality projects on time and on budget is my specialty. I focus on customer satisfaction, thinking creatively and attentively to detail. From increasing efficiency to enhancing users' quality of life, I believe technology has the power to make the world a better place, and I am passionate about making a positive impact.<br>Staying up-to-date with the latest industry trends and technologies is my top priority, and I remain committed to continuous learning and improving my skills. 
+🔭 I’m currently working on Store Shop
+👯 I’m looking to collaborate on Experienced and diligent team
+🤝 I’m looking for help with any sorting algorithms in python language
+🌱 I’m currently learning React.js and Next.js
+💬 Ask me about Python, JavaScript, Software Dev...
+⚡ Fun fact: Avocados are a fruit, not a vegetable. They're technically considered a single-seeded berry, believe it or not.
 
 
 ## 🌐 Socials:
